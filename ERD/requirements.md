@@ -1,1 +1,1 @@
-[Entity-Relationship (ER) diagram](/ALX Airbnb Database Module.jpg)
+[Entity-Relationship (ER) diagram](ALX%20Airbnb%20Database%20Module.jpg)
