@@ -1,0 +1,1 @@
+[Entity-Relationship (ER) diagram](/ALX Airbnb Database Module.jpg)
