@@ -1,3 +1,3 @@
-[Entity-Relationship (ER) diagram](ALX%20Airbnb%20Database%20Module.jpg)
+## Entity Relationship Diagram (ERD)
 
 <img src="./ALX Airbnb Database Module.jpg">
