@@ -4,7 +4,7 @@
 
 # Complex SQL Joins
 
-This directory contains SQL scripts for Task 0 of the ALX Airbnb Database Module.
+This file contains SQL scripts for Task 0 of the ALX Airbnb Database Module.
 
 ## Files
 
@@ -20,7 +20,7 @@ This directory contains SQL scripts for Task 0 of the ALX Airbnb Database Module
 
 # SQL Subqueries
 
-This directory contains SQL scripts for Task 1 of the ALX Airbnb Database Module.
+This file contains SQL scripts for Task 1 of the ALX Airbnb Database Module.
 
 ## Files
 - `subqueries.sql`: Demonstrates correlated and non-correlated subqueries.
@@ -32,3 +32,20 @@ This directory contains SQL scripts for Task 1 of the ALX Airbnb Database Module
 
 2. **Correlated Subquery**  
    Identifies users who have made more than three bookings. The subquery depends on the current user record from the outer query.
+
+
+# Aggregations and Window Functions – Airbnb Database Project
+
+This task demonstrates how to analyze and rank data using SQL aggregate and window functions.
+
+## Files
+- `aggregations_and_window_functions.sql`: Contains the queries for Task 2.
+- `README.md`: Documentation for the logic behind each query.
+
+## Queries Overview
+
+1. **Aggregation (COUNT + GROUP BY)**  
+   Calculates the total number of bookings per user using the `COUNT()` function and groups results by `user_id`.
+
+2. **Window Function (RANK)**  
+   Ranks properties based on the number of bookings using a window function with the `RANK()` clause.
